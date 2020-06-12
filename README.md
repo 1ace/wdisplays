@@ -18,7 +18,7 @@ kiosks, digital signage, and other elaborate multi-monitor setups.
 Check your distro for a `wdisplays` package. Known distro packages:
 
 - [Alpine](https://pkgs.alpinelinux.org/package/edge/testing/x86_64/wdisplays)
-- [Arch](https://aur.archlinux.org/packages/wdisplays-git/)
+- [Arch](https://aur.archlinux.org/packages/wdisplays/)
 - [Debian](https://packages.debian.org/sid/wdisplays)
 - [Fedora](https://copr.fedorainfracloud.org/coprs/wef/wdisplays/)
 - [FreeBSD](https://svnweb.freebsd.org/ports/head/x11/wdisplays/)
